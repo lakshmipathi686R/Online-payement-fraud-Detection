@@ -16,6 +16,7 @@ For this project, we use a dataset collected from Kaggle, which contains histori
 - **oldbalanceDest**: Initial balance of the recipient before the transaction.
 - **newbalanceDest**: New balance of the recipient after the transaction.
 - **isFraud**: Indicates whether the transaction is fraudulent (1 for fraud, 0 for non-fraud).
+  
 
 ## Steps to Detect Fraud
 1. **Data Exploration and Preprocessing**: Analyze the dataset to understand its structure and clean any inconsistencies or missing values.
